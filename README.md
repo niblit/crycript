@@ -1,2 +1,2 @@
 # crycript
-Python symmetric encryption
+Python symmetric file encryption
